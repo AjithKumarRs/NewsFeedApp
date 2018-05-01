@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">The Guardian - News</string>
+    <string name="no_news_found">No news found to display. Please make a new search query.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="order_by_key" translatable="false">order-by</string>
+    <string name="order_by_value_newest" translatable="false">newest</string>
+    <string name="show_tags_key" translatable="false">show-tags</string>
+    <string name="show_tags_value" translatable="false">contributor</string>
+    <string name="api_key_key" translatable="false">api-key</string>
+    <string name="search_query_key" translatable="false">q</string>
+    <string name="settings_search_query_key">searchQuery</string>
+    <string name="settings_title">News Settings</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key_newest">Newest</string>
+    <string name="settings_order_by_key_oldest">Oldest</string>
+    <string name="settings_order_by_key_relevance">Relevance</string>
+    <string name="settings_order_by_value_newest_default">@string/order_by_value_newest</string>
+    <string name="settings_order_by_value_oldest" translatable="false">oldest</string>
+    <string name="settings_order_by_value_relevance" translatable="false">relevance</string>
+    <string name="settings_search_query_label">Search Query</string>
+    <string name="settings_search_query_value_default">turkey</string>
+</resources>
